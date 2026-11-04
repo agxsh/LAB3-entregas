@@ -4,8 +4,9 @@
 
 ## Integrantes
 <!-- Completar en el primer Pull Request -->
-- Apellido, Nombre (@usuario-github)
-- Apellido, Nombre (@usuario-github)
+- Arce, Andres Agustin (@agxsh)
+- Becker, David (@Dav-2005)
+- Cuadra, Josias (@jcaseli)
 
 ## Archivos
 <!-- Qué archivo hace qué -->
